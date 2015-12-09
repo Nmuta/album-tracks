@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+
 }
 header{
   background-color: #081826;
@@ -42,17 +43,45 @@ button{
 
 
 
-
-
-
 #albums{
   float: left;
-  background-image: url("../resources/track.fw.png");
-  opacity: 0.19;
   height: 90vh;
   width: 50vw;
+}
 
 
+#albums::after{
+  content: "";
+  background-image: url("../resources/track.fw.png");
+  opacity: 0.19;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+
+
+
+}
+#uno{
+  width: 50%;
+  height: 10%;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+
+
+
+}
+
+#alb{
+  height: 185px;
+  width: 185px;
+  z-index: 1;
+  position: relative;
+  opacity: 1;
+  margin-top: 20px;
 }
 
 

@@ -20,13 +20,20 @@ h2{
 
 
 
-#albums{
+#albumsplaylist{
   height: 25vh;
   width: 100vw;
   background-color: tomato;
 
 
 }
+.playlistpics{
+  height: 120px;
+  width: 120px;
+  margin-left: 140px;
+  margin-top: 30px;
+}
+
 #bin{
   height: 50vh;
   width: 100vw;
