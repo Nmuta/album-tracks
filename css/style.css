@@ -1,0 +1,82 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-color: #081826;
+  height: 5vh;
+  width: 100vw;
+  box-sizing: border-box;
+  border-bottom: 5px solid #105150;
+}
+#trackbin{
+  float: left;
+  background-color: #D1E1DD;
+  height: 90vh;
+  width: 50vw;
+  text-align: center;
+
+}
+#trackbinlabel{
+  margin-top: 280px;
+  font-size: 3.5em;
+  color: #081826;
+  margin-bottom: 5px;
+}
+button{
+  height: 50px;
+  width: 250px;
+  border: none;
+  background-color: #081826;
+  outline: none;
+  color: #D1E1DD;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#albums{
+  float: left;
+  background-image: url("../resources/track.fw.png");
+  opacity: 0.19;
+  height: 90vh;
+  width: 50vw;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  clear: both;
+  background-color: #081826;
+  height: 5vh;
+  width: 100vw;
+  box-sizing: border-box;
+
+}
+h2{
+  margin-left: 75px;
+  color: #D1E1DD;
+}
