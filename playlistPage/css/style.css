@@ -75,6 +75,7 @@ body{
   margin: 0 auto;
   margin-top: 40px;
   border: 2px solid black;
+  overflow: scroll;
 }
 
 .pPad {
@@ -109,4 +110,8 @@ footer {
 #copyright {
   padding-left: 30px;
   padding-top: 10px;
+}
+
+.pic {
+  cursor: pointer;
 }
