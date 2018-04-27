@@ -1,0 +1,130 @@
+{
+  "results": [
+    {
+      "id": 2,
+      "title": "Ghost in the Machine",
+      "artist": "The Police",
+      "cover_art": "ghost_in_the_machine.jpg",
+      "track_list": [
+                      "Spirits In The Material World",
+                      "Every Little Thing She Does Is Magic",
+                      "Invisible Sun",
+                      "Hungry for You (J'aurais toujours faim de toi)",
+                      "Demolition Man",
+                      "Too Much Information",
+                      "Rehumanize Yourself",
+                      "One World (Not Three)",
+                      "Omegaman",
+                      "Secret Journey",
+                      "Darkness"
+                    ]
+    },
+    {
+      "id": 6,
+      "title": "Red",
+      "artist": "Black Uhuru",
+      "cover_art": "red.jpg",
+      "track_list": [
+                      "Youth of Eglington",
+                      "Sponji Reggae",
+                      "Sistren",
+                      "Journey",
+                      "Utterance",
+                      "Puff She Puff",
+                      "Rockstone",
+                      "Carbine"
+                    ]
+    },
+    {
+      "id": 22,
+      "title": "The Division Bell",
+      "artist": "Pink Floyd",
+      "cover_art": "the_division_bell.jpg",
+      "track_list": [
+                      "Cluster One",
+                      "What Do You Want from Me",
+                      "Poles Apart",
+                      "Marooned",
+                      "A Great Day for Freedom",
+                      "Wearing the Inside Out",
+                      "Take It Back",
+                      "Coming Back to Life",
+                      "Keep Talking",
+                      "Lost for Words",
+                      "High Hopes"
+                    ]
+    },
+    {
+      "id": 18,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "cover_art": "thriller.jpg",
+      "track_list": [
+                      "Wanna Be Startin Somethin",
+                      "Baby Be Mine",
+                      "The Girl Is Mine",
+                      "Thriller",
+                      "Beat It",
+                      "Billie Jean",
+                      "Human Nature",
+                      "P.Y.T. (Pretty Young Thing)",
+                      "The Lady in My Life"
+                    ]
+    },
+    {
+      "id": 55,
+      "title": "21",
+      "artist": "Adele",
+      "cover_art": "21.jpg",
+      "track_list": [
+                      "Rolling in the Deep",
+                      "Rumour Has It",
+                      "Turning Tables",
+                      "Don't You Remember",
+                      "Set Fire to the Rain",
+                      "He Won't Go",
+                      "Take It All",
+                      "I'll Be Waiting",
+                      "One and Only",
+                      "Lovesong",
+                      "Someone like You"
+                    ]
+    },
+    {
+      "id": 31,
+      "title": "Vitalogy",
+      "artist": "Pearl Jam",
+      "cover_art": "vitalogy.jpg",
+      "track_list": [
+                      "Last Exit",
+                      "Spin the Black Circle",
+                      "Not for You",
+                      "Tremor Christ",
+                      "Nothingman",
+                      "Pry, To",
+                      "Corduroy",
+                      "Bugs",
+                      "Better Man"
+                    ]
+    },
+    {
+      "id": 39,
+      "title": "The Resistance",
+      "artist": "Muse",
+      "cover_art": "theresistance.jpg",
+      "track_list": [
+                      "Uprising",
+                      "Resistance",
+                      "Undisclosed Desires",
+                      "United States of Eurasia",
+                      "Guiding Light",
+                      "Unnatural Selection",
+                      "MK Ultra",
+                      "I Belong to You",
+                      "Exogenesis: Symphony Part 1",
+                      "Exogenesis: Symphony Part 2",
+                      "Exogenesis: Symphony Part 3"
+                    ]
+    }
+  ]
+}
