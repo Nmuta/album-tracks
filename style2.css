@@ -1,0 +1,99 @@
+body{
+  margin:0px auto;
+  height: 100vh;
+  width: 100vw;
+  background-color: lightgray;
+}
+.header{
+  background-color: #9b9b8a;
+  width: 100%;
+  border: 1px solid black;
+}
+.head1{
+  height: 30px;
+
+}
+.head2{
+
+}
+h5{
+  color: white;
+  height: 45px;
+  text-indent: 50px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+.trackList{
+overflow: scroll;
+height: 150px;
+}
+.input{
+margin-top: 60px;
+height: 300px;
+width: 950px;
+  margin-left: 180px;
+overflow: scroll;
+  background-color: white;
+}
+p{
+  color: black;
+}
+footer{
+  position: fixed;
+  text-indent: 50px;
+  width: 100%;
+  padding:12px;
+  font-size: 30px;
+  bottom: 0;
+  border: 1px solid black;
+  background-color: #686858;
+}
+.splashPage{
+  background-image:url("resources/fadedTrack.jpg");
+  background-repeat: no-repeat;
+  float: right;
+  height: 780px;
+  width: 700px;
+}
+img {
+  float: left;
+  height: 140px;
+  width: 140px;
+  padding: 10px;
+  margin-left: 100px;
+}
+img{
+
+display: table-row;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.track{
+margin-top:300px;
+margin-left:300px;
+color: purple;
+font-size: 60px;
+font-style: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.button{
+  background-color: #535226;
+  font-size: 16px;
+margin-top: 20px;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+.cBtn{
+  padding: 10px 34px;
+  margin-left:100px;
+}.sBtn{
+  padding: 10px 34px;
+  margin-left:20px;
+}
