@@ -1,0 +1,67 @@
+body{
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  font-family: "Avenir";
+  background-color: #FFFFFF;
+}
+
+.header{
+  padding-top: 50px;
+  padding-left: 20px;
+  background-color: #9A9C8B;
+}
+
+h2{
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: #DFDFDA;
+}
+
+.album_crate{
+  height: 100px;
+  width: 100%;
+  border-bottom: 10px solid #DDDDDD;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.song_playlist{
+  border: 3px solid #010101;
+  background-color: #EEEEEE;
+  height: 250px;
+  width: 87%;
+  padding: 15px;
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 25px;
+  overflow: scroll;
+}
+.button_holder{
+  display: block;
+  margin: 38px;
+}
+button{
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #A7A7A0;
+  background-color: #353624;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 5px;
+}
+
+.fixed {
+    position: fixed;
+    padding: 15px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #676957;
+    color: #E3E3E0;
+    text-align: left;
+}

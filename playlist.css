@@ -1,0 +1,87 @@
+body{
+  height:100vh;
+  width: 100vw;
+  margin: 0;
+}
+.header{
+  background-color: #9A9C9B;
+  width: 100%;
+  padding: 25px;
+  border-bottom: 1px black solid;
+}
+
+.middle-section{
+  height:100%;
+  width:110%;
+  display: inline-flex;
+  font-family: "Avenir";
+}
+
+.left_side{
+  width: 100%;
+  height: 100%;
+  background-color: #EEEEEE;
+  /* border: 1px green solid; */
+  float: left;
+}
+
+.track_holder{
+  margin: 275px 175px 275px 175px;
+  padding: 15px;
+  text-align: center;
+}
+
+.track{
+  padding: 5px;
+}
+
+#bin{
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: #550069;
+}
+
+#button{
+  font-size: 15px;
+  letter-spacing: 2px;
+  color: #EEEEEE;
+  background-color: #353624;
+  border-radius: 5px;
+}
+
+a{
+  color: #A7A7A0;
+}
+
+.right_side{
+  width:100%;
+  height: 100%;
+  background-size: cover;
+  background-image: url(resources/fadedTrack.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  float: right;
+
+}
+.album_cover {
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 215px;
+  height: 90%;
+  padding: 10px;
+  position: absolute;
+  margin-left: 18%;
+}
+
+.fixed {
+    position: fixed;
+    padding: 15px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #676957;
+    color: #E3E3E0;
+    text-align: left;
+}
