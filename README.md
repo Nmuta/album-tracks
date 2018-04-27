@@ -14,8 +14,7 @@ A user comes to the splash page. The splash page has 3 album covers to the right
 https://github.com/gSchool/playlist
 
 ## Getting Credit: 
-Submit a pull request when finsished with the entire project OR deploy to surge . 
-[Surge Website](https://surge.sh/) 
+There's a pull request target for every single stage of the project. When finished with that stage, deploy current working code base to firebase and submit a pull request to the designated target. 
  
 
 ## General Notes 
