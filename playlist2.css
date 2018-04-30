@@ -1,0 +1,156 @@
+body {
+  margin:   0px;
+  padding:  0px;
+  width:    100vw;
+  height:   100vh;
+}
+.container {
+  position: fixed;
+  top:      0;
+  left:     0;
+  bottom:   0;
+  right:    0;
+}
+.row {
+width:   100%;
+display: block;
+}
+.row1 {
+  height:           150px;
+  background-color: DarkKhaki;
+  margin-left:      -15px;
+  padding-right:    20px;
+  margin-top:      -10px;
+}
+.row2 {
+    height:560px;
+  }
+
+.row3{
+  margin-left:      -15px;
+  margin-right:     30px;
+  height:           60px;
+  line-height:      30px;
+  background-color: DarkKhaki;
+  position:         fixed;
+  bottom:           0;
+  color:            white;
+  padding-left:     60px;
+}
+
+.album{
+  padding-top:    80px;
+  font-size:      25px;
+  float:          right;
+  margin-right:   250px;
+  margin-bottom:  40px;
+  color:          white;
+  padding-right:  650px;
+}
+
+.button1, .button2 {
+    background-color: gray;
+    color:            white;
+    padding:          15px 32px;
+    text-align:       center;
+    font-size:        16px;
+    border-radius:    5px;
+    margin-left:      320px;
+    margin-top:       60px;
+  }
+
+.display{
+  height:            150px;
+  padding-right:     90px;
+}
+
+.details{
+  height:           200px;
+  margin-top:       45px;
+  /* margin-left:      50px;
+  margin-right:     50px; */
+  }
+
+.track{
+  height:100%;
+  width:20%;
+  /* display:inline-block; */
+  border:solid;
+  /* position:relative; */
+  /* margin-left: 30px; */
+  /* margin-right:100px; */
+  /* margin-right:35px;  */
+  float:left;
+  }
+.track1, .arrow{
+  border: none;
+}
+/* .content1, .content2{
+  height:15%;
+
+} */
+/* .content3{
+  height:70%;
+} */
+
+/* .track1{
+  width:250px;
+} */
+.track2, .track1, .arrow, .track3{
+  /* width:250px; */
+  margin-left:30px;
+  margin-right:30px;
+  /* position:fixed; */
+}
+
+/* .track3{
+  margin-left: -150px;
+  margin-bottom:250px;
+  margin-top:-230px;
+  margin-right:180px;
+  width:200px;
+
+} */
+
+
+
+.arrow{
+  background: url(http://danielbentley.me/wp-content/uploads/arrow-next-clip-art-at-clker-com-vector-online-clipart-png-5a85aea72d8d9.png);
+  background-size:  contain;
+  background-repeat:no-repeat;
+  height:120px;
+  /* width:100px; */
+  /* float:right; */
+  /* margin:0px; */
+   /* margin-left:-70px; */
+   margin-left:60px;
+   margin-top:60px;
+/* margin-right:80px; */
+/* border:none; */
+}
+.track3{
+  margin-left: -50px;
+}
+
+/* .track3{ */
+  /* width:250px; */
+ /* margin-right:-450px; */
+ /* margin-left:280px; */
+ /* margin-bottom:-20px */
+
+ /* padding-right:80px; */
+ /* padding-bottom:40px; */
+   /* margin-left:-150px; */
+ /* margin-top:-160px;  */
+ /* margin-top:-100px;
+ margin-bottom:10px; */
+ /* margin-right:420px; */
+
+/* margin-top:5px; */
+
+/* } */
+
+.track3{
+   /* position:fixed; */
+
+}
